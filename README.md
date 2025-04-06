@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cantikapraja
 - 👀 I’m interested in the field of website and mobile application development.
-- 🌱 I’m currently learning Html, Flutter Dart, Css and also Javascript. and I enjoy every time I learn something new
 - 📫 How to reach me? you can send me Email message or also follow my insta
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm a girl who is always attracted to intelligent men in comics, and that motivates me to become smarter and more accomplished.
