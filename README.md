@@ -20,7 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cantikapraja&show_icons=true&locale=en&layout=compact" alt="cantikapraja" /></p>
 
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantikapraja&" alt="cantikapraja" /></p>
-<div style="border: 2px solid pink; border-radius: 8px; padding: 5px; display: inline-block;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantikapraja&" alt="cantikapraja" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantikapraja&" alt="cantikapraja" /></p>
+
