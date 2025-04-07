@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantikapraja&" alt="cantikapraja" /></p>
 
+<img src="https://streak-stats.demolab.com?user=cantikapraja&theme=jolly&hide_border=true" alt="cantikapraja's GitHub Stats" />
