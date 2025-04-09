@@ -20,4 +20,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantikapraja&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="cantikapraja's GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=cantikapraja&theme=jolly&hide_border=true" alt="cantikapraja's GitHub Stats" />
