@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cantika Kesyanda Praja</h1>
 <h3 align="center">A mobile (flutter) developer</h3>
 
-- 🔭 I’m a Fresh Graduate looking for working at software development
+- 🔭 Software development enthusiast exploring Flutter, Laravel, and modern web technologies.
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
