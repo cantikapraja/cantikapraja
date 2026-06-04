@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cantika Kesyanda Praja</h1>
 <h3 align="center">A mobile (flutter) developer</h3>
 
-- 🔭 I’m currently working at **PT Juara Karya Teknologi (jkt.asia)**
+- 🔭 I’m a Fresh Graduate looking for working at software development
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
